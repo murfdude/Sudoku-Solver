@@ -1,0 +1,7 @@
+C:\Users\dwortman\Documents\UCCS\Courses\GDD 3400 - A.I\SP14\Exams\GDD3400_Sudoku\GDD3400_Sudoku\bin\Debug\GDD3400_Sudoku.exe.config
+C:\Users\Murphy\Desktop\School\GDD\3400\GDD3400_Sudoku\GDD3400_Sudoku\bin\Debug\GDD3400_Sudoku.exe.config
+C:\Users\Murphy\Desktop\School\GDD\3400\GDD3400_Sudoku\GDD3400_Sudoku\bin\Debug\GDD3400_Sudoku.exe
+C:\Users\Murphy\Desktop\School\GDD\3400\GDD3400_Sudoku\GDD3400_Sudoku\bin\Debug\GDD3400_Sudoku.pdb
+C:\Users\Murphy\Desktop\School\GDD\3400\GDD3400_Sudoku\GDD3400_Sudoku\obj\Debug\GDD3400_Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Murphy\Desktop\School\GDD\3400\GDD3400_Sudoku\GDD3400_Sudoku\obj\Debug\GDD3400_Sudoku.exe
+C:\Users\Murphy\Desktop\School\GDD\3400\GDD3400_Sudoku\GDD3400_Sudoku\obj\Debug\GDD3400_Sudoku.pdb
